@@ -1,3 +1,5 @@
+# NOT MAINTAINED ANYMORE
+
 # Quality Refresh 🖌️
 
 A modular combination of QoL/Debloat Snippets for Vencord designed to enhance the user experience whilst still keeping the main features of the new discord refresh.
